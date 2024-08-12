@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Vitwit is AI and Blockchain company.
+### Vitwit is AI and Blockchain company.
 
 <!--
 
